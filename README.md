@@ -56,15 +56,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br>
-  <sub>Si no ves la animación, visita <a href="https://github.com/Platane/snk">Platane/snk</a> para más info.</sub>
+ 
 </p>
 
 
-<h3 align="left">Discord:</h3>
-<p align="center">
-  <a href="https://discord.gg/rx5dbKdeFU" target="_blank">
-    <img src="https://img.shields.io/badge/Únete%20a%20mi%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <br>
-  <sub>¡Haz clic en el logo para unirte a la comunidad!</sub>
-</p>
