@@ -50,3 +50,16 @@
 
 
 <!-- Puedes agregar más secciones personalizadas aquí si lo deseas. -->
+
+<h3 align="left">Commit Snake:</h3>
+<p align="center">
+  <img src="https://github.com/AlanDCE/AlanDCE/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
+<h3 align="left">Discord:</h3>
+<p align="center">
+  <a href="https://discord.gg/rx5dbKdeFU">
+    <img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner2" alt="Discord" />
+  </a>
+</p>
