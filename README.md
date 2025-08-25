@@ -1,7 +1,9 @@
 
 <h1 align="center">Hey <img src="assets/wave.gif" width="30" />, <span style="color:#ff0067">I'm Alan</span>
 <img src="assets/Alan.gif" width="30" style="border-radius: 50%" /></h1>
-<img src="assets/Alan.gif" width="200" style="border-radius: 20px; margin: 20px auto; display: block;" />
+<div align="center">
+  <img src="assets/Alan.gif" width="200" style="border-radius: 20px; margin: 20px auto; display: block;" />
+</div>
 <h3 align="center">Estudiante de Ingeniería en Sistemas Informáticos | Desarrollador en formación | Interés en Web, Móvil y Ciberseguridad</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AlanDCE&label=Profile%20views&color=ff0067&style=flat-square" alt="AlanDCE" /></p>
 
