@@ -1,0 +1,13 @@
+# Archivos de configuración de agentes e IA
+AGENTS.md
+.agents/
+.system_generated/
+
+# Logs y temporales
+*.log
+Thumbs.db
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
