@@ -33,7 +33,7 @@
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
-<a href="https://github.com/AlanDCE" target="blank"><img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,react,nodejs&perline=12" width="100%"></a>
+<a href="https://github.com/AlanDCE" target="blank"><img src="https://skillicons.dev/icons?i=html,css,js,py,vue,git,github&perline=12" width="100%" alt="HTML, CSS, JavaScript, Python, Vue, Git y GitHub"></a>
 
 
 <p align="center"><img src="assets/Alan.png" alt="Separator" /></p>
@@ -41,8 +41,8 @@
 
 <h3 align="left">Estadísticas de GitHub:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanDCE&show_icons=true&count_private=true&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDCE&count_private=true&layout=compact&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222" height="180">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanDCE&show_icons=true&include_all_commits=true&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222&hide_border=true&locale=es" height="180" alt="Estadísticas de GitHub de AlanDCE">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanDCE&layout=compact&langs_count=6&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222&hide_border=true&locale=es" height="180" alt="Lenguajes más usados por AlanDCE">
 </p>
 
 
@@ -58,4 +58,3 @@
   <br>
  
 </p>
-
