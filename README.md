@@ -41,8 +41,8 @@
 
 <h3 align="left">Estadísticas de GitHub:</h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanDCE&show_icons=true&include_all_commits=true&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222&hide_border=true&locale=es" height="180" alt="Estadísticas de GitHub de AlanDCE">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanDCE&layout=compact&langs_count=6&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222&hide_border=true&locale=es" height="180" alt="Lenguajes más usados por AlanDCE">
+  <img src="assets/github-stats.svg" height="180" alt="Estadísticas de GitHub de AlanDCE">
+  <img src="assets/top-languages.svg" height="180" alt="Lenguajes más usados por AlanDCE">
 </p>
 
 
